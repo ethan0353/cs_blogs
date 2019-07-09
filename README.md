@@ -19,7 +19,7 @@
 
 ## 网站
 
-- [tutorials.jenkov.com](http://tutorials.jenkov.com/) (java分类中的mConcurrency、NIO)
+- [tutorials.jenkov.com](http://tutorials.jenkov.com/) (java分类中的Concurrency、NIO)
 - [stackoverflow](https://stackoverflow.com/)
 - [博客园](https://www.cnblogs.com/)
 - [IBM Developer](https://www.ibm.com/developerworks/cn/topics/)
